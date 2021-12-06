@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee7f618c-c66d-4fcf-96e5-d6eaa687c765": {
+      "ProjectGuid": "ee7f618c-c66d-4fcf-96e5-d6eaa687c765",
+      "DisplayName": "ReconocimientoFacial",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
